@@ -1,34 +1,3 @@
-﻿
-/****************************************************************************
-**
-**
-**
-**
-**
-**
-**
-**
-** SAKARYA ÜNİVERSİTESİ
-** BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-** BİLİŞİM SİSTEMLERİ MÜHENDİSLİĞİ BÖLÜMÜ
-** NESNEYE DAYALI PROGRAMLAMA DERSİ
-** 2020-2021 BAHAR DÖNEMİ
-**
-** ÖDEV NUMARASI..........: 1
-** ÖĞRENCİ ADI............: NAMIK KEMAL ARSU  
-** ÖĞRENCİ NUMARASI.......: b201200355
-** DERSİN ALINDIĞI GRUP...: A
-**
-**
-**
-**
-**
-**
-**
-**
-****************************************************************************/
-
-
 
 using System.Collections.Generic;
 using System.Linq;
